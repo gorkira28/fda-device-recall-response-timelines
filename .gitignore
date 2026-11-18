@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/processed/recalls.duckdb
+data/raw/device-enforcement.json.zip
+data/raw/device-recall.json.zip
+data/raw/openfda_enforcement_2022_2025.jsonl

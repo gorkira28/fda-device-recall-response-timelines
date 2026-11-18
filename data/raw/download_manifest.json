@@ -1,0 +1,10 @@
+{
+  "source_manifest": "https://api.fda.gov/download.json",
+  "source_file": "https://download.open.fda.gov/device/enforcement/device-enforcement-0001-of-0001.json.zip",
+  "openfda_export_date": "2026-11-10",
+  "source_records": 40481,
+  "cohort_filter": "recall_initiation_date between 2022-01-01 and 2025-12-31",
+  "cohort_records": 11006,
+  "downloaded_utc": "2026-11-13T20:52:28Z",
+  "output": "data\\raw\\openfda_enforcement_2022_2025.jsonl"
+}

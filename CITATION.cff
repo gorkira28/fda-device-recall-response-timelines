@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this analysis or code, please cite it as follows."
+title: "FDA Medical-Device Recall Response Timelines"
+type: software
+authors:
+  - family-names: "Gor"
+    given-names: "Kira"
+    suffix: "BDS, MPH"
+repository-code: "https://github.com/gorkira28/fda-device-recall-response-timelines"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-13
+keywords:
+  - medical-device-recalls
+  - healthcare-analytics
+  - regulatory-data
+  - epidemiology
+  - duckdb
+  - python
+  - sas

@@ -1,0 +1,9 @@
+{
+  "source_records": 11005,
+  "analysis_records": 11005,
+  "excluded_negative_or_missing_lag": 0,
+  "kruskal_wallis_h": 125.17,
+  "kruskal_wallis_p": 6.607898717958355e-28,
+  "epsilon_squared": 0.0112,
+  "source_export_date": "2026-11-10"
+}

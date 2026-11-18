@@ -1,0 +1,4 @@
+classification,records,median,mean,p25,p75,p90
+Class I,1452,48.0,53.4,41.0,58.0,71.0
+Class II,9321,50.0,66.4,41.0,63.0,91.0
+Class III,232,62.0,112.9,54.8,101.0,208.0

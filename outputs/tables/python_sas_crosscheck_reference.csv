@@ -1,0 +1,23 @@
+section,group,metric,value
+overall,all,analysis_records,11005.0
+overall,all,kruskal_wallis_h,125.16823378983509
+overall,all,kruskal_wallis_p,6.607898717958355e-28
+overall,all,epsilon_squared,0.011195076694222423
+class,Class I,records,1452.0
+class,Class I,median,48.0
+class,Class I,mean,53.4
+class,Class I,p25,41.0
+class,Class I,p75,58.0
+class,Class I,p90,71.0
+class,Class II,records,9321.0
+class,Class II,median,50.0
+class,Class II,mean,66.4
+class,Class II,p25,41.0
+class,Class II,p75,63.0
+class,Class II,p90,91.0
+class,Class III,records,232.0
+class,Class III,median,62.0
+class,Class III,mean,112.9
+class,Class III,p25,54.8
+class,Class III,p75,101.0
+class,Class III,p90,208.0
